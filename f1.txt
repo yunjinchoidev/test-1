@@ -5,3 +5,6 @@ d
 g
 goo
 goo`o
+
+gogo
+
