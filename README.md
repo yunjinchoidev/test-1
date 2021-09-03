@@ -9,3 +9,6 @@
 ---
 
 > 제 뇌에서 나온 글입니다
+
+![나의 스승](./images/nietzsche.jpg)
+![나의 스승](./images/weber.jpg)
